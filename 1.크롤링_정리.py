@@ -188,5 +188,5 @@ for list_product in tqdm(list_products):
                 break
 
 df_list_of_reviews = pd.DataFrame(list_of_reviews)
-df_list_of_reviews.to_csv("product_review.csv", encoding='utf-8-sig')
+df_list_of_reviews.to_csv("df_product_review.csv", encoding='utf-8-sig')
 
