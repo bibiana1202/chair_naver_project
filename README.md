@@ -1,6 +1,7 @@
 # chair_naver_project
 
-https://www.notion.so/wew1202/2-d6ef306ce2ff4a2e80537c4bbc00f4ff
+  <a href="https://www.notion.so/wew1202/2-d6ef306ce2ff4a2e80537c4bbc00f4ff">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 
 
 ### 1. 주제 선정
