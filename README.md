@@ -1,6 +1,6 @@
 # chair_naver_project
 
-  <a href="https://www.notion.so/wew1202/2-d6ef306ce2ff4a2e80537c4bbc00f4ff">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  <a href="https://www.notion.so/wew1202/1-16c42ffbb22f4818b72961961a88b4bd">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 
